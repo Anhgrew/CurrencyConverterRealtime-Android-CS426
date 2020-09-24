@@ -1,0 +1,4 @@
+include ':app'
+rootProject.name = "CurrencyConverterRealtime"
+
+//HW_01_18125002

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CurrencyConverterRealtime</string>
+    <string name="todo">TODO</string>
+    <string name="ero_zone"></string>
+    <string name="vnd">VND</string>
+    <string name="ero">EUR</string>
+    <string name="history">HISTORY</string>
+    <string name="base_current">Base Current:</string>
+    <string name="target_current">Target Current:</string>
+    <string name="_5678">5678</string>
+    <string name="_122222">122222</string>
+    <string name="date_time">Date time:</string>
+</resources>
